@@ -1,0 +1,4 @@
+Starting Page of Game is in 
+
+game -> public_html -> main_html.php
+
